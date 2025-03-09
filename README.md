@@ -1,6 +1,6 @@
 # Credit-card-Data-Visualization
 
-This repository contains scripts and visualizations to analyze a credit card dataset. The visualizations provide insights into customer behavior, spending patterns, and retention rates.
+This project visualizes Credit Card Data using Python's matplotlib and seaborn libraries. The dashboard includes multiple plots to analyze credit card transactions, customer categories, and spending patterns.
 
 ## Visualizations
 
@@ -33,7 +33,19 @@ This repository contains scripts and visualizations to analyze a credit card dat
 
 ---
 
-## Getting Started
+## Dataset
+
+The dataset used is CreditcardData.csv, which contains:
+
+1️⃣ Credit_Limit - Maximum spending limit on the credit card
+
+2️⃣ Avg_Purchase - Average purchase made on the card
+
+3️⃣ Income_Category - Customer's income classification
+
+4️⃣ Total_Trans_Amt - Total transaction amount
+
+5️⃣ Attrition_Flag - Indicator if a customer is retained or attrited
 
 ### Prerequisites
 
@@ -59,32 +71,9 @@ To generate visualizations, run each script:
 python Creditcard.py
 ```
 
-Visualizations Overview:
-
 Example Outputs
-1. Scatter Plot:
 
-![Figure_1](https://github.com/user-attachments/assets/d8a3716e-f459-440f-9916-4709856ba88c)
-
-2. Histogram and Box Plot:
-
-
-![Figure_2](https://github.com/user-attachments/assets/dcb3fa8f-a901-4a38-b3b2-a3078282907e)
-   
-![Figure_3](https://github.com/user-attachments/assets/65192912-cf33-4315-b8b6-57bb693cb955)
-
-3. Bar Chart:
-
-
-![Figure_4](https://github.com/user-attachments/assets/fdd8daf7-aa7c-422b-a2b5-d165c2790cf1)
-
-4. Histogram:
-
-![Figure_5](https://github.com/user-attachments/assets/55c72958-b507-4aea-84ce-68510016e16c)
-
-5. Pie Chart:
-
-![Figure_6](https://github.com/user-attachments/assets/0cbf5c11-4700-4b80-b944-1e679adcc4fd)
+![Figure_1](https://github.com/user-attachments/assets/a447aee2-8e0f-42af-94d7-47d5a812543a)
 
 
 ## Contributing
@@ -94,3 +83,5 @@ Note: I took a course on Infosys Springboard and worked on this project there.
 
 ## License
 This project is licensed under the MIT License.
+
+Happy Coding! 🚀
