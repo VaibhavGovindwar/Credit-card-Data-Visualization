@@ -1,6 +1,6 @@
 # Credit-card-Data-Visualization
 
-This project visualizes Credit Card Data using Python's matplotlib and seaborn libraries. The dashboard includes multiple plots to analyze credit card transactions, customer categories, and spending patterns.
+This project visualizes Credit Card Data using Python's matplotlib and seaborn libraries. The dashboard includes 6 plots to analyze credit card transactions, customer categories, and spending patterns.
 
 ## Visualizations
 
@@ -10,7 +10,7 @@ This project visualizes Credit Card Data using Python's matplotlib and seaborn l
    - **Insight**: Identify potential correlations between these two variables.
 
 2. **Distribution of Credit Card Limit and Average Purchase**
-   - **Type**: Histogram and Box Plot
+   - **Type**: Line and Box Plot
    - **Purpose**: 
      - Histograms to show the frequency distribution of credit limits and average purchases.
      - Box plots to identify outliers and data spread.
